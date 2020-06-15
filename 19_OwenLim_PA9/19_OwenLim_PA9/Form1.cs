@@ -60,6 +60,11 @@ namespace _19_OwenLim_PA9
                     decimal answer = Amount * yen;
                     txt_Converted.Text = answer.ToString();
                 }
+                if (rb_Ringgit.Checked)
+                {
+                    decimal answer = Amount * ringgit;
+                    txt_Converted.Text = answer.ToString();
+                }
                 else
                 {
                     txt_Amount.Text = "Choose one of the currencies";
