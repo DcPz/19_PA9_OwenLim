@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\obj\Debug\19_OwenLim_PA9.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\obj\Debug\_19_OwenLim_PA9.Form1.resources
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\obj\Debug\_19_OwenLim_PA9.Properties.Resources.resources
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\obj\Debug\19_OwenLim_PA9.csproj.GenerateResource.cache
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\obj\Debug\19_OwenLim_PA9.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\bin\Debug\19_OwenLim_PA9.exe.config
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\bin\Debug\19_OwenLim_PA9.exe
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\bin\Debug\19_OwenLim_PA9.pdb
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\obj\Debug\19_OwenLim_PA9.exe
+C:\Users\owner\Desktop\19_OwenLim_PA9\19_OwenLim_PA9\obj\Debug\19_OwenLim_PA9.pdb
